@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Quaran</string>
+    <string name="quran">القران الكريم</string>
+
+    <string name="chooseSh">أختر الشيخ</string>
+    <string name="mashary">مشاري العفاسي</string>
+    <string name="maher">ماهر المعيقلي</string>
+    <string name="ajamy">أحمد العجمي</string>
+    <string name="ghamdi">سعد الغامدي</string>
+    <string name="sodis">عبدالرحمن السديسى</string>
+    <string name="gbril">محــمد جـــبريــل</string>
+    <string name="abdelbaset">عبدالــباسط عبدالصمد</string>
+    <string name="minshawy">محمد صديق المنشاوى</string>
+    <string name="abbad">فـــــارس عـــباد</string>
+    <string name="wadi3">وديــــع اليمني</string>
+    <string name="huzifi">عبدالرحمن الحذيفي</string>
+    <string name="nasser">ناصر القطامي</string>
+
+    <string-array name="sheikhs">
+        <item></item>
+        <item></item>
+    </string-array>
+
+</resources>
